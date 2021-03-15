@@ -1,0 +1,9 @@
+{
+  "packages": [
+    "service1",
+    "service2"
+  ],
+  "version": "0.0.0",
+  "npmClient": "yarn",
+  "useWorkspaces": true
+}
